@@ -1,6 +1,7 @@
 # Task Board
 
-![Task Board screenshot](screenshots/preview.png)
+![Task Board screenshot](screenshots/preview.jpg
+)
 
 A small Kanban-style task manager built with **React 18** and **Vite**.
 
