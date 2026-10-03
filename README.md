@@ -31,4 +31,4 @@ Build for production: `npm run build`
 
 ## Author
 
-Zahra Haghjo · [LinkedIn](https://linkedin.com/in/zahraHaghjo) · [GitHub](https://github.com/ZahraHaghjo)
+Zahra Haghjo · [LinkedIn](https://www.linkedin.com/in/zahrahaghjo) · [GitHub](https://github.com/ZahraHaghjo)
